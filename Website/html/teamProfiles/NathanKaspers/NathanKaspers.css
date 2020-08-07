@@ -1,0 +1,22 @@
+.content-block{
+    background-color: #696969; 
+    margin-top: 300px;
+    padding-bottom: 200px;
+    margin-bottom:200px;
+ }
+ .picture {
+     display: inline-block;
+     float: left;
+     margin-top: 100px;
+     margin-left: 50px;
+     width: 20%;
+     margin-right: 5px;
+ }
+ .picture img{
+     width: 100%;
+     height: auto;
+ }
+ .written-content{
+     margin-top: 80px;
+     display: inline-block;
+ }
