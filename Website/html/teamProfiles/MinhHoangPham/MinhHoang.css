@@ -16,7 +16,8 @@
      width: 100%;
      height: auto;
  }
- .written-content{
-     margin-top: 80px;
-     display: inline-block;
- }
+  .written-content{
+    margin-top: 80px;
+    max-width: 75%;
+    display: inline-block;
+}
