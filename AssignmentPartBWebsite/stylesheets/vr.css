@@ -1,0 +1,27 @@
+.content-block{
+    background-color: #696969; 
+    margin-top: 300px;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 300px;
+    margin-bottom:200px;
+}
+ H1{
+     text-align: center;
+}
+.title{
+    padding:0px;
+}
+ .featureDesign{
+     display: inline-block;
+     width:30%;
+     float: left;
+}
+ .featureDesign img{
+    width:100%;
+}
+ .featureBlurb{
+    display: inline-block;
+    width:65%;
+}
