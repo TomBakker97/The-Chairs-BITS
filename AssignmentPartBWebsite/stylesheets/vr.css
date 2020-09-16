@@ -24,4 +24,5 @@
  .featureBlurb{
     display: inline-block;
     width:65%;
+    padding-left: 10px;
 }
