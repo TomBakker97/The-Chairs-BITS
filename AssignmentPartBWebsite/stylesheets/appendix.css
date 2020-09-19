@@ -13,16 +13,20 @@
 .title{
     padding:0px;
 }
- .featureDesign{
-     display: inline-block;
-     width:30%;
-     float: left;
-}
- .featureDesign img{
+ table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  
+  th {
+    text-align: left;
+  }
+  
+  table {
+    border-spacing: 5px;
     width:100%;
-}
- .featureBlurb{
-    display: inline-block;
-    width:65%;
-    padding-left: 10px;
-}
+  }
