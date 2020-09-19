@@ -13,16 +13,6 @@
 .title{
     padding:0px;
 }
- .featureDesign{
-     display: inline-block;
-     width:30%;
-     float: left;
-}
- .featureDesign img{
+estimation img{
     width:100%;
-}
- .featureBlurb{
-    display: inline-block;
-    width:65%;
-    padding-left: 10px;
 }
