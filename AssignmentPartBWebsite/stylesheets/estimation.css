@@ -13,6 +13,10 @@
 .title{
     padding:0px;
 }
-estimation img{
+.estimation{
+    display: inline-block;
+    width: 100%;
+}
+.estimation img{
     width:100%;
 }
